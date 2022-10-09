@@ -33,8 +33,8 @@
 >4. Deletion
 
 >### Implementation
->1. [Singly Linked List](Data-Structures/Linked-Lists/SinglyLinkedList.js)
->2. [Doubly Linked List](Data-Structures/Linked-Lists/DoublyLinkedList.js)
+>1. [Singly Linked List](https://github.com/ricardo1470/Data-Structures/blob/master/Linked-Lists/SinglyLinkedList.js)
+>2. [Doubly Linked List](https://github.com/ricardo1470/Data-Structures/blob/master/Linked-Lists/DoublyLinkedList.js)
 
 >## Stacks
 >Stack is a linear data structure which follows a particular order in which the operations are performed. The order may be LIFO(Last In First Out) or FILO(First In Last Out).
