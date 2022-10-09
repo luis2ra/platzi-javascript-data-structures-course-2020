@@ -71,12 +71,8 @@
 >4. Search
 
 >### Implementation
->1. [Binary Tree](Data-Structures/Trees/BinaryTree.js)
->2. [Binary Search Tree](Data-Structures/Trees/BinarySearchTree.js)
->3. [AVL Tree](Data-Structures/Trees/AVLTree.js)
->4. [Red Black Tree](Data-Structures/Trees/RedBlackTree.js)
->5. [Segment Tree](Data-Structures/Trees/SegmentTree.js)
->6. [Trie](Data-Structures/Trees/Trie.js)
+
+>1. [Binary Search Tree](https://github.com/ricardo1470/Data-Structures/blob/master/Trees/BinarySearchTree.js)
 
 >## Graphs
 >Graph is a non-linear data structure consisting of nodes and edges. The nodes are sometimes also referred to as vertices and the edges are lines or arcs that connect any two nodes in the graph.
