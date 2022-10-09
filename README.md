@@ -22,8 +22,6 @@
 
 >### Implementation
 >1. [Array](Data-Structures/Arrays/Array.js)
->2. [Dynamic Array](Data-Structures/Arrays/DynamicArray.js)
->3. [Sparse Array](Data-Structures/Arrays/SparseArray.js)
 
 >## Linked Lists
 >Linked List is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers.
