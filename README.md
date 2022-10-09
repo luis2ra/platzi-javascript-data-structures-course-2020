@@ -105,8 +105,8 @@
 >2. Binary Search
 
 >### Implementation
->1. [Linear Search](/Data-Structures/Search-Algorithms/LinearSearch.js)
->2. [Binary Search](/Data-Structures/Search-Algorithms/BinarySearch.js)
+>1. [Linear Search](https://github.com/ricardo1470/Data-Structures/blob/master/Search-Algorithms/LinearSearch.js)
+>2. [Binary Search](https://github.com/ricardo1470/Data-Structures/blob/master/Search-Algorithms/BinarySearch.js)
 >3. [Jump Search](/Data-Structures/Search-Algorithms/JumpSearch.js)
 >4. [Interpolation Search](/Data-Structures/Search-Algorithms/InterpolationSearch.js)
 >5. [Exponential Search](/Data-Structures/Search-Algorithms/ExponentialSearch.js)

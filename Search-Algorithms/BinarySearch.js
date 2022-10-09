@@ -5,7 +5,6 @@ class BinarySearch {
         this.array = []; // array of integers
     }
 
-    // function that searches for a value in a sorted array of integers using the Binary search algorithm
     search() {
         let left = 0; // left index
         let right = this.size - 1; // right index
@@ -26,7 +25,6 @@ class BinarySearch {
     }
 }
 
-// create a new binary search object
 const binarySearchObject = new BinarySearch();
 binarySearchObject.value = 7;
 binarySearchObject.size = 10;
