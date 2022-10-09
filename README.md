@@ -46,7 +46,7 @@
 >4. isEmpty
 
 >### Implementation
->1. [Stack](Data-Structures/Stacks/Stack.js)
+>1. [Stack](https://github.com/ricardo1470/Data-Structures/blob/master/Stacks/Stack.js)
 
 >## Queues
 >Queue is a linear structure which follows a particular order in which the operations are performed. The order is First In First Out (FIFO). A good example of queue is any queue of consumers for a resource where the consumer that came first is served first. The difference between stacks and queues is in removing. In a stack we remove the item the most recently added; in a queue, we remove the item the least recently added.
@@ -59,7 +59,7 @@
 >5. isEmpty
 
 >### Implementation
->1. [Queue](Data-Structures/Queues/Queue.js)
+>1. [Queue](https://github.com/ricardo1470/Data-Structures/blob/master/Queues/Queue.js)
 
 >## Trees
 >Tree is a non-linear data structure, with a hierarchical structure. It is a collection of nodes connected by edges. A tree has a root node and subtrees of children with a parent node, represented as a set of linked nodes.
