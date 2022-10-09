@@ -8,8 +8,6 @@
 >5. [Trees](#trees)
 >6. [Graphs](#graphs)
 >7. [Hash Tables](#hash-tables)
->8. [Heaps](#heaps)
->9. [Tries](#tries)
 
 >## Arrays
 >Arrays are a collection of items stored at contiguous memory locations. The idea is to store multiple items of the same type together. This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array).
@@ -86,8 +84,6 @@
 >### Implementation
 >1. [Graph](Data-Structures/Graphs/Graph.js)
 >2. [Directed Graph](Data-Structures/Graphs/DirectedGraph.js)
->3. [Weighted Graph](Data-Structures/Graphs/WeightedGraph.js)
->4. [Directed Weighted Graph](Data-Structures/Graphs/DirectedWeightedGraph.js)
 
 >## Hash Tables
 >Hash table is a data structure which is used to implement an associative array, a structure that can map keys to values. A hash table uses a hash function to compute an index into an array of buckets or slots, from which the desired value can be found.
@@ -100,27 +96,6 @@
 >### Implementation
 >1. [Hash Table](https://github.com/ricardo1470/Data-Structures/blob/master/Hash-Tables/HashTable.js)
 
->## Heaps
->Heap is a specialized tree-based data structure that satisfies the heap property: if P is a parent node of C, then the key (the value) of P is either greater than or equal to (in a max heap) or less than or equal to (in a min heap) the key of C. A common implementation of a heap is the binary heap, in which the tree is a complete binary tree.
-
->### Operations
->1. Insertion
->2. Deletion
->3. Search
-
->### Implementation
->1. [Max Heap](Data-Structures/Heaps/MaxHeap.js)
->2. [Min Heap](Data-Structures/Heaps/MinHeap.js)
-
->## Tries
-
->### Operations
->1. Insertion
->2. Deletion
->3. Search
-
->### Implementation
->1. [Trie](Data-Structures/Tries/Trie.js)
 
 >## Contributing
 >1. Fork it (
