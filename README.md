@@ -103,7 +103,7 @@
 >3. Search
 
 >### Implementation
->1. [Hash Table](Data-Structures/Hash-Tables/HashTable.js)
+>1. [Hash Table](https://github.com/ricardo1470/Data-Structures/blob/master/Hash-Tables/HashTable.js)
 
 >## Heaps
 >Heap is a specialized tree-based data structure that satisfies the heap property: if P is a parent node of C, then the key (the value) of P is either greater than or equal to (in a max heap) or less than or equal to (in a min heap) the key of C. A common implementation of a heap is the binary heap, in which the tree is a complete binary tree.
