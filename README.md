@@ -21,7 +21,7 @@
 >4. Deletion
 
 >### Implementation
->1. [Array](Data-Structures/Arrays/Array.js)
+>1. [Array](https://github.com/ricardo1470/Data-Structures/blob/master/Arrays/Array.js)
 
 >## Linked Lists
 >Linked List is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers.
