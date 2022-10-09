@@ -82,8 +82,8 @@
 >4. Search
 
 >### Implementation
->1. [Graph](Data-Structures/Graphs/Graph.js)
->2. [Directed Graph](Data-Structures/Graphs/DirectedGraph.js)
+>1. [Graph](https://github.com/ricardo1470/Data-Structures/blob/master/Graphs/Graph.js)
+>2. [Directed Graph](https://github.com/ricardo1470/Data-Structures/blob/master/Graphs/DirectedGraph.js)
 
 >## Hash Tables
 >Hash table is a data structure which is used to implement an associative array, a structure that can map keys to values. A hash table uses a hash function to compute an index into an array of buckets or slots, from which the desired value can be found.
