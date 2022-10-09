@@ -35,7 +35,6 @@
 >### Implementation
 >1. [Singly Linked List](Data-Structures/Linked-Lists/SinglyLinkedList.js)
 >2. [Doubly Linked List](Data-Structures/Linked-Lists/DoublyLinkedList.js)
->3. [Circular Linked List](Data-Structures/Linked-Lists/CircularLinkedList.js)
 
 >## Stacks
 >Stack is a linear data structure which follows a particular order in which the operations are performed. The order may be LIFO(Last In First Out) or FILO(First In Last Out).
