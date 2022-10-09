@@ -517,6 +517,21 @@ class BinarySearchTree {
                             parentNode.left = currentNode.right; // set the parent node's left property to the current node's right property
                         } else if (parentNode.right === currentNode) { // if the parent node's right property is the current node
                             parentNode.right = currentNode.right; // set the parent node's right property to the current node's right property
+                        }
+                    }
+                } else if (currentNode.right === null) { // if the current node has no right child
+                    if (parentNode === null) { // if the parent node is null
+                        this.root = currentNode.left; // set the root of the tree to the current node's left property
+                    } else {
+                        if (parentNode.left === currentNode) { // if the parent node's left property is the current node
+                            parentNode.left = currentNode.left; // set the parent node's left property to the current node's left property
+                        } else if (parentNode.right === currentNode) { // if the parent node's right property is the current node
+                            parentNode.right = currentNode.left; // set the parent node's right property to the current node's left property
+                        }
+                    }
+                }
+            }
+        }
     }
 
     // search - searches the tree for a node with the given value
