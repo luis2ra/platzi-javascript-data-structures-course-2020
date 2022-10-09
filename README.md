@@ -8,6 +8,7 @@
 >5. [Trees](#trees)
 >6. [Graphs](#graphs)
 >7. [Hash Tables](#hash-tables)
+>8. [Search Algorithms](#search-algorithms)
 
 >## Arrays
 >Arrays are a collection of items stored at contiguous memory locations. The idea is to store multiple items of the same type together. This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array).
@@ -95,6 +96,24 @@
 
 >### Implementation
 >1. [Hash Table](https://github.com/ricardo1470/Data-Structures/blob/master/Hash-Tables/HashTable.js)
+
+>## Search Algorithms
+>Search algorithms are used to find an element within a data structure. There are many different types of search algorithms, each with its own advantages and disadvantages.
+
+>### Operations
+>1. Linear Search
+>2. Binary Search
+
+>### Implementation
+>1. [Linear Search](/Data-Structures/Search-Algorithms/LinearSearch.js)
+>2. [Binary Search](/Data-Structures/Search-Algorithms/BinarySearch.js)
+>3. [Jump Search](/Data-Structures/Search-Algorithms/JumpSearch.js)
+>4. [Interpolation Search](/Data-Structures/Search-Algorithms/InterpolationSearch.js)
+>5. [Exponential Search](/Data-Structures/Search-Algorithms/ExponentialSearch.js)
+>6. [Fibonacci Search](/Data-Structures/Search-Algorithms/FibonacciSearch.js)
+>7. [Advanced binary search](/Data-Structures/Search-Algorithms/AdvancedBinarySearch.js)
+>8. [Jump search in a singly linked list](/Data-Structures/Search-Algorithms/JumpSearchInSinglyLinkedList.js)
+>9. [Linear search in a skip list](/Data-Structures/Search-Algorithms/LinearSearchInSkipList.js)
 
 
 >## Contributing
