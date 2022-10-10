@@ -1,8 +1,8 @@
 class BinarySearch {
-    constructor() {
-        this.value = 0; // value to search for
-        this.size = 0; // size of the array
-        this.array = []; // array of integers
+    constructor(value, size, array) {
+        this.value = value; // value to search for
+        this.size = size; // size of the array
+        this.array = array; // array of integers
     }
 
     search() {
@@ -25,8 +25,5 @@ class BinarySearch {
     }
 }
 
-const binarySearchObject = new BinarySearch();
-binarySearchObject.value = 7;
-binarySearchObject.size = 10;
-binarySearchObject.array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+const binarySearchObject = new BinarySearch(8, 10, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]);
 console.log(binarySearchObject.search()); // print the index of the element
