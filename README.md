@@ -107,13 +107,13 @@
 >### Implementation
 >1. [Linear Search](https://github.com/ricardo1470/Data-Structures/blob/master/Search-Algorithms/LinearSearch.js)
 >2. [Binary Search](https://github.com/ricardo1470/Data-Structures/blob/master/Search-Algorithms/BinarySearch.js)
->3. [Jump Search](/Data-Structures/Search-Algorithms/JumpSearch.js)
->4. [Interpolation Search](/Data-Structures/Search-Algorithms/InterpolationSearch.js)
->5. [Exponential Search](/Data-Structures/Search-Algorithms/ExponentialSearch.js)
->6. [Fibonacci Search](/Data-Structures/Search-Algorithms/FibonacciSearch.js)
->7. [Advanced binary search](/Data-Structures/Search-Algorithms/AdvancedBinarySearch.js)
->8. [Jump search in a singly linked list](/Data-Structures/Search-Algorithms/JumpSearchInSinglyLinkedList.js)
->9. [Linear search in a skip list](/Data-Structures/Search-Algorithms/LinearSearchInSkipList.js)
+>3. [Jump Search](https://github.com/ricardo1470/Data-Structures/blob/master/Search-Algorithms/JumpSearch.js)
+>4. [Interpolation Search](https://github.com/ricardo1470/Data-Structures/blob/master/Search-Algorithms/InterpolationSearch.js)
+>5. [Exponential Search](https://github.com/ricardo1470/Data-Structures/blob/master/Search-Algorithms/ExponentialSearch.js)
+>6. [Fibonacci Search](https://github.com/ricardo1470/Data-Structures/blob/master/Search-Algorithms/FibonacciSearch.js)
+>7. [Advanced binary search](https://github.com/ricardo1470/Data-Structures/blob/master/Search-Algorithms/AdvancedBinarySearch.js)
+>8. [Jump search in a singly linked list](https://github.com/ricardo1470/Data-Structures/blob/master/Search-Algorithms/JumpSearchInSinglyLinkedList.js)
+>9. [Linear search in a skip list](https://github.com/ricardo1470/Data-Structures/blob/master/Search-Algorithms/LinearSearchInSkipList.js)
 
 
 >## Contributing
