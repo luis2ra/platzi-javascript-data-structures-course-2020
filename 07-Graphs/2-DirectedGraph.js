@@ -1,3 +1,7 @@
+/**
+ * Title: Undirected Graph
+ */
+
 class Graph {
     constructor() {
         this.nodes = 0; // set the number of nodes in the graph to 0

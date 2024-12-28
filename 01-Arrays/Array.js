@@ -19,7 +19,7 @@ class MyArray {
 
     // pop() method to remove item from end of array
     pop() {
-        const lastItem = this.data[this.length - 1]; // get last item
+        const lastItem = this.data[this.length - 1]; // get last item to return
         delete this.data[this.length - 1]; // delete last item
         this.length--; // decrement length
 
@@ -92,3 +92,6 @@ class MyArray {
         console.log(this.data); // print array
     }
 }
+
+// create new array to testing
+const myArray = new MyArray();
